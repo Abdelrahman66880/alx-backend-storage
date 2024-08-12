@@ -1,2 +1,2 @@
 //script for listing all databases
-use dbs
+show dbs
